@@ -1,0 +1,19 @@
+{
+    "proveedores": [
+    {
+        "idproveedor": 1,
+        "nombrecompania": "Alkosto",
+        "nombrecontacto": "Julian Ramirez"
+    },
+    {
+        "idproveedor":2,
+        "nombrecompania": "Exito",
+        "nombrecontacto": "Manuel Casas"
+    },
+    {
+        "idproveedor": 3,
+        "nombrecompania": "Apple",
+        "nombrecontacto":"Charlotte Miller"
+    }
+]
+}

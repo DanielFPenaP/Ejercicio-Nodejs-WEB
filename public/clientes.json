@@ -1,0 +1,19 @@
+{
+    "clientes": [
+        {
+            "idcliente": 1,
+            "nombrecompania": "Panamericana",
+            "nombrecontacto": "Juan Perez"
+        },
+        {
+            "idcliente":2,
+            "nombrecompania": "Exito",
+            "nombrecontacto": "Maria Jimenez"
+        },
+        {
+            "idcliente": 3,
+            "nombrecompania": "Asuss",
+            "nombrecontacto":"Jhon Smith"
+        }
+    ]
+}
